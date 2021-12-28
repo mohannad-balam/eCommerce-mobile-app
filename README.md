@@ -1,5 +1,8 @@
-# real_shop
-
-A shop app with api.
-
-## Getting Started
+![Screenshot_1640718918](https://user-images.githubusercontent.com/73895704/147600313-638c09da-a334-4ba0-af48-ee67e5b510e6.png)
+![Screenshot_1640718929](https://user-images.githubusercontent.com/73895704/147600323-e0141390-2aa0-48a3-8e2f-27feba21dbb5.png)
+![Screenshot_1640718938](https://user-images.githubusercontent.com/73895704/147600366-deaf8d77-52c0-4aa9-844b-578f1935128e.png)
+![Screenshot_1640718961](https://user-images.githubusercontent.com/73895704/147600430-7cc0f37e-12fc-437d-8ea9-b05532e36948.png)
+![Screenshot_1640718965](https://user-images.githubusercontent.com/73895704/147600431-14f74a43-87be-4428-9ac6-d3b9f5d53110.png)
+![Screenshot_1640718973](https://user-images.githubusercontent.com/73895704/147600437-b9089a55-53a0-42ff-a11e-e4376feead7a.png)
+![Screenshot_1640718981](https://user-images.githubusercontent.com/73895704/147600442-1fd06250-4e3b-4515-8f6d-30d7d27481c2.png)
+![Screenshot_1640718986](https://user-images.githubusercontent.com/73895704/147600453-332b9469-0894-433b-a4af-d25a0a506a22.png)
